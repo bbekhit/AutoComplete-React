@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
-In the project directory(client), you can run:
+In the project directory(client) run npm install to get all dependencies then you can run:
 
 ### `npm start`
 
