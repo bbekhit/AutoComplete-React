@@ -27,6 +27,8 @@ to fetch data in my components(CitySearch) and then mapped the state to props th
 ### `npm run eject`
 Ejected the project to configure the node-sass and sass-loader
 
+watch live on (https://afternoon-basin-86628.herokuapp.com/)
+
 
 
 
